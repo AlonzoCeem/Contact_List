@@ -1,0 +1,12 @@
+#root > div > a {
+    font-family:verdana;
+    color:dodgerblue;
+    text-decoration: none;
+    text-shadow: 1px 1px black;
+    display:inline-block;
+    margin:0em 0em 1em 1em;
+}
+
+.selected a {
+    background-color:cornsilk;
+}
